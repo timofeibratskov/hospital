@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hospital>
+  <Department Label="Xirurgicheskoe">
+    <DepartmentDoctor Name="h. Vasya">
+      <Patient Name="misha" Age="18" Weight="70" Gender="male" Complain="bolit spina" />
+    </DepartmentDoctor>
+    <Nurse>Svetka</Nurse>
+  </Department>
+  <Department Label="Pediatricheskoe">
+    <DepartmentDoctor Name="p. Dima">
+      <Patient Name="tanya" Age="18" Weight="44" Gender="female" Complain="bolit dusha" />
+    </DepartmentDoctor>
+    <Nurse>Teresa</Nurse>
+  </Department>
+  <Department Label="Infekcionnoe">
+    <DepartmentDoctor Name="i. Anton" />
+    <Nurse>Nataha</Nurse>
+  </Department>
+</Hospital>
